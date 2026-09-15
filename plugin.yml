@@ -1,0 +1,11 @@
+name: WorldCommandBlocker
+main: Houpq\WorldCommandBlocker\WCB
+version: 3.0
+api: 5.0.0
+author: Houpq
+description: Block commands by worlds with WorldCommandBlocker, only for PocketMine-MP 5.0 servers
+website: https://github.com/Infv
+
+permissions:
+  worldcommandblocker.allow:
+    default: op
