@@ -1,6 +1,16 @@
 # WorldCommandBlocker
 PocketMine-MP plugin that blocks specific commands in configured worlds.
 
+| World   | Command              | 
+| ------- | -------------------- | 
+| Lobby   | spawn                |
+| Lobby   | warp                 |
+
+
+| Description       | Permission |
+| ----------------- | ---------- |
+| get bypass        | fly.bypass |
+
 INSTALLATION:
 
 1. Download the latest release.
