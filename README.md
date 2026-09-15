@@ -1,15 +1,6 @@
 # WorldCommandBlocker
 PocketMine-MP plugin that blocks specific commands in configured worlds.
 
-example config.yml:
-
-**Settings:**
-  blocked-commands:
-    Lobby:
-      - sethome
-      - me
-      - say
-
 INSTALLATION:
 
 1. Download the latest release.
