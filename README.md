@@ -8,7 +8,9 @@ You can define the blocked commands for each world directly in the configuration
 **Example config.yml**
 
 worlds:
+
   lobby:
+  
     - "fly"
     - "gamemode"
     - "tp"
