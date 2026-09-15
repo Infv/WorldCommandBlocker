@@ -3,7 +3,7 @@ PocketMine-MP plugin that blocks specific commands in configured worlds.
 
 example config.yml:
 
-Settings:
+**Settings:**
   blocked-commands:
     Lobby:
       - sethome
