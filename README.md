@@ -1,10 +1,11 @@
 # WorldCommandBlocker
 PocketMine-MP plugin that blocks specific commands in configured worlds.
+example config.yml:
 
 | World   | Command              | 
 | ------- | -------------------- | 
 | Lobby   | spawn                |
-| Lobby   | warp                 |
+| MinaPvP | warp                 |
 
 INSTALLATION:
 
